@@ -22,5 +22,4 @@
     />
     <img align="center" src="https://github-readme-stats-sigma-hazel.vercel.app/api/top-langs?username=adonisbiju&size_weight=0&count_weight=1&langs_count=10&layout=compact&hide_border=true&bg_color=00000000" />
   </picture>
-   <img src="https://github-readme-streak-stats-tau-ten.vercel.app?user=adonisbiju&theme=dark&hide_border=true&background=00000000" />
 </p>
